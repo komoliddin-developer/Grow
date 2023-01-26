@@ -1,0 +1,189 @@
+@media (max-width: 1440px) {}
+@media (max-width: 1320px) {}
+@media (max-width: 1290px) {}
+@media (max-width: 1140px) {}
+@media (max-width: 1024px) {
+    /* main media start */
+    .way__title {
+        margin: 0 auto;
+        padding-bottom: 30px;
+    }
+    /* main media end */
+}
+@media (max-width: 992px) {
+    /* header media start */
+    .nav__menu {
+        display: flex;
+    }
+    .nav__list {
+        display: none;
+    }
+    /* header media end */
+    /* footer media start */
+    .footer__title {
+        font-size: 80px;
+    }
+    /* footer media end */
+}
+@media (max-width: 850px) {}
+@media (max-width: 768px) {}
+@media (max-width: 736px) {
+    .our__title {
+        font-size: 100px;
+    }
+    /* footer media start */
+    .footer__title {
+        font-size: 50px;
+    }
+    /* footer media end */
+}
+@media (max-width: 734px) {}
+@media (max-width: 684px) {}
+@media (max-width: 667px) {
+    /* header media start */
+    .header__title {
+        font-size: 150px;
+    }
+    /* header media end */
+
+    /* main media start */
+    .mission__block {
+        padding: 24px;
+    }
+    .mission__title {
+        font-size: 80px;
+    }
+    .mission__item {
+        padding: 10px;
+    }
+    .mission__txt {
+        font-size: 14px;
+    }
+    .late__title {
+        font-size: 90px;
+    }
+    /* main media end */
+}
+@media (max-width: 576px) {
+    /* header media start */
+    .header__title {
+        font-size: 125px;
+    }
+    .header__txt {
+        font-size: 18px;
+    }
+    /* header media end */
+    /* main media start */
+    .mission__block {
+        padding: 24px;
+    }
+    .mission__title {
+        font-size: 80px;
+    }
+    .mission__item {
+        padding: 8px;
+        font-size: 14px;
+    }
+    .mission__txt {
+        font-size: 14px;
+    }
+    .our__title {
+        font-size: 80px;
+    }
+    .our__content {
+        row-gap: 200px;
+    }
+    /* main media end */
+}
+@media (max-width: 480px) {}
+@media (max-width: 460px) {
+    /* header media start */
+    .header__title {
+        font-size: 100px;
+    }
+    .header__txt {
+        font-size: 16px;
+    }
+    .header__block {
+        padding:  80px 0;
+    }
+    /* header media end */
+    /* main media start */
+    .mission__title {
+        font-size: 60px;
+    }
+    .mission__item {
+        padding: 5px;
+        font-size: 10px;
+    }
+    .mission__txt {
+        font-size: 14px;
+    }
+    .our__title {
+        font-size: 50px;
+    }
+    .our__content {
+        row-gap: 150px;
+    }
+    .our__card-title {
+        font-size: 38px;
+    }
+    .late__title {
+        font-size: 70px;
+    }
+    /* main media end */
+    /* footer media start */
+    .footer__title {
+        font-size: 35px;
+    }
+    .footer__div {
+        padding: 150px 0;
+    }
+    /* footer media end */
+}
+@media (max-width: 414px) {}
+@media (max-width: 412px) {
+    /* main media start */
+    .way__title {
+        font-size: 45px;
+        max-width: 300px;
+        width: 100%;
+    }
+    /* main media end */
+}
+@media (max-width: 360px) {
+    /* header media start */
+    .header__title {
+        font-size: 85px;
+    }
+    .header__txt {
+        font-size: 14px;
+    }
+    .header__block {
+        padding: 50px 0;
+    }
+    /* header media end */
+
+    /* main media start */
+    .way__title {
+        font-size: 45px;
+        max-width: 300px;
+        width: 100%;
+    }
+    .our__card-title {
+        font-size: 35px;
+    }
+    .late__title {
+        font-size: 50px;
+    }
+    /* main media end */
+        /* footer media start */
+        .footer__title {
+            font-size: 30px;
+        }
+        .footer__div {
+            padding: 100px 0;
+        }
+        /* footer media end */
+}
+@media (max-width: 320px) {}
